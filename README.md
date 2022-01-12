@@ -1,5 +1,5 @@
 # NBADraftRegressor
-A model trained on previous NBA Draft Statistics that uses various Regression models to predict a player's rank in the NBA Draft
+A Regression Model trained on previous NBA Draft Statistics to predict a future NBA player's rank in the NBA Draft
 
 # Data Source
 Used beautifulSoup to webscrape data from https://www.sports-reference.com/cbb/players. This website contains all essential data related to all NCAA Basketball Players
